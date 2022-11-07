@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou @CabralWalter.
+- 👀 Atualmente interessado em análise e engenharia de dados.
+- 📫 [Linkedin](https://www.linkedin.com/in/walter-cabral-251341237/) 
